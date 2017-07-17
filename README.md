@@ -45,4 +45,4 @@ How to install:
 8. Now visit the clusterdemo web application by your favorite Browser, Firefox, Chrome, Safari are preferred.
    NOTE: URL is http://%IP_ADDRESS%:8080/clusterdemo
 
-HAVE FUN!
+HAVE FUN! yess
